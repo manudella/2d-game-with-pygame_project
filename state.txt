@@ -1,0 +1,1 @@
+{"resources_1": 15, "resources_2": 15, "wall_health_1": 1000, "wall_health_2": 1000, "N_S_1": 1, "N_S_2": 1, "N_A_1": 1, "N_A_2": 1, "N_W_1": 1, "N_W_2": 1, "num_swordsmen_1": 0, "num_swordsmen_2": 0, "num_archers_1": 0, "num_archers_2": 0, "num_workers_mine_1": 0, "num_workers_mine_2": 0, "num_workers_wall_1": 0, "num_workers_wall_2": 0}
